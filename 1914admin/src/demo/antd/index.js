@@ -4,7 +4,7 @@ function Less() {
     return(
         <div className='less'>
             <h3>less demmo</h3>
-            <Button></Button>
+            <Button>add</Button>
         </div>
     )
 }
